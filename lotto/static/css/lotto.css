@@ -1,0 +1,18 @@
+.page-header{
+    background-color:#FF90BC;
+    margin-top:0;
+    padding:20px 20px 20px 40px;
+    font-family:"Gaegu", sans-serif;
+}
+
+.page-header h1{
+    color:#F9F9E0;
+}
+
+.container{
+    font-family:"Gaegu", sans-serif;
+}
+
+.container h2{
+    color:#8ACDD7;
+}
